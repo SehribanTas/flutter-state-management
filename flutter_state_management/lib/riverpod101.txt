@@ -1,0 +1,6 @@
+1 .adım : Riverpod kullanılacak class ProviderScope ile sarmallanır.
+2. Takip edilecek olan değişken clasın üzerinde geriye ref dönen bir Provider olarak tanımlanır.
+3.eğer değiştirilebilir değişkenler kullanmak istiyorsan state provider kullanmak
+
+State provider kullanmak için önce model sınıfını oluştur 
+artından bu modele ait bir StateNotifier class oluştur ve için modelini verilir bu class içerisinde state notifer kullanan bir provideer oluşururp
